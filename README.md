@@ -24,8 +24,8 @@ sponsor, along with an internship opportunity to continue development and a
 cash prize.
 
 - 📝 [Read the full story on LinkedIn](https://www.linkedin.com/posts/kayla-teekaram-121580272_hackbay2026-tampabayinnovation-hackathon-ugcPost-7507599736615636992-nbcS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKl5KkB78H_KsNFdZANIJoeyRPLphRjnzo)
-- 🔗 [Project on Devpost](https://lnkd.in/ebq5vUYF)
-- 🎥 [Watch the demo video](https://lnkd.in/e6Vw364a)
+- 🔗 [Project on Devpost](https://devpost.com/software/silver-springs-community-intelligence)
+- 🎥 [Watch the demo video](https://youtu.be/RAH8OKLhbwo?si=-50LmfvIefb3Pd1I)
 
 ---
 
