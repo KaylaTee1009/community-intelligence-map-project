@@ -15,7 +15,7 @@ No API keys are required to run it.
 
 **2nd Place — Bay Hacks 2026, UX University Challenge**
 
-Built in 24 hours by **Team OmniBulls** 🐂 — (Me) [Kayla Teekaram](https://www.linkedin.com/in/kayla-teekaram-121580272),
+Built in 24 hours by **Team OmniBulls** 🐂 — [Kayla Teekaram](https://www.linkedin.com/in/kayla-teekaram-121580272) (Me),
 [Monisha Natarajan Ambika](https://www.linkedin.com/in/monisha-natarajan/), and
 [Reyanna Hodge](https://www.linkedin.com/in/reyanna-hodge-024268421/).
 
