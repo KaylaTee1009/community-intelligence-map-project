@@ -11,6 +11,24 @@ No API keys are required to run it.
 
 ---
 
+## 🏆 Recognition
+
+**2nd Place — Bay Hacks 2026, UX University Challenge**
+
+Built in 24 hours by **Team OmniBulls** 🐂 — (Me) [Kayla Teekaram](www.linkedin.com/in/kayla-teekaram-121580272),
+[Monisha Natarajan Ambika](https://www.linkedin.com/in/monisha-natarajan/), and
+[Reyanna Hodge](https://www.linkedin.com/in/reyanna-hodge-024268421/).
+
+The project earned a specially created second-place award from the division
+sponsor, along with an internship opportunity to continue development and a
+cash prize.
+
+- 📝 [Read the full story on LinkedIn](https://www.linkedin.com/posts/kayla-teekaram-121580272_hackbay2026-tampabayinnovation-hackathon-ugcPost-7507599736615636992-nbcS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKl5KkB78H_KsNFdZANIJoeyRPLphRjnzo)
+- 🔗 [Project on Devpost](https://lnkd.in/ebq5vUYF)
+- 🎥 [Watch the demo video](https://lnkd.in/e6Vw364a)
+
+---
+
 ## Run
 
 Two processes. Start the API first.
@@ -207,6 +225,17 @@ Stated in the UI as well as here.
 - The inherited `.gitignore` carries a Python-oriented `lib/` rule that will
   silently swallow any `src/lib/` you add. A negation is already in place at the
   bottom of the file; leave it there.
+
+---
+
+## Acknowledgments
+
+Thanks to the organizers and sponsors who made Bay Hacks 2026 possible:
+Tampa Bay Innovation, and sponsors Render, ElevenLabs, Nucleate, American
+Circular, and User Experience University — along with on-campus partners
+ACM, SHPE USF, and Google Developer Group on Campus at USF.
+
+---
 
 ## Stack
 
